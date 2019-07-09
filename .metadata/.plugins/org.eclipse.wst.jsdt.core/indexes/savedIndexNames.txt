@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+G:\HandSpring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1976053617.index
+4175290483.index
+2812887724.index
+2657574369.index
+3839837320.index
+2394082045.index

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <uri name="http://www.springframework.org/schema/aop" uri="file:///C:/Users/l/Desktop/5.1.8/spring-aop.xsd"/>
+  <uri name="http://www.springframework.org/schema/beans" uri="file:///C:/Users/l/Desktop/5.1.8/spring-beans.xsd"/>
+  <uri name="http://www.springframework.org/schema/cache" uri="file:///C:/Users/l/Desktop/5.1.8/spring-cache.xsd"/>
+  <uri name="http://www.springframework.org/schema/context" uri="file:///C:/Users/l/Desktop/5.1.8/spring-context.xsd"/>
+  <uri name="http://www.springframework.org/schema/jdbc" uri="file:///C:/Users/l/Desktop/5.1.8/spring-jdbc.xsd"/>
+  <uri name="http://www.springframework.org/schema/jee" uri="file:///C:/Users/l/Desktop/5.1.8/spring-jee.xsd"/>
+  <uri name="http://www.springframework.org/schema/jms" uri="file:///C:/Users/l/Desktop/5.1.8/spring-jms.xsd"/>
+  <uri name="http://www.springframework.org/schema/lang" uri="file:///C:/Users/l/Desktop/5.1.8/spring-lang.xsd"/>
+  <uri name="http://www.springframework.org/schema/mvc" uri="file:///C:/Users/l/Desktop/5.1.8/spring-mvc.xsd"/>
+  <uri name="http://www.springframework.org/schema/oxm" uri="file:///C:/Users/l/Desktop/5.1.8/spring-oxm.xsd"/>
+  <uri name="http://www.springframework.org/schema/task" uri="file:///C:/Users/l/Desktop/5.1.8/spring-task.xsd"/>
+  <uri name="http://www.springframework.org/schema/tool" uri="file:///C:/Users/l/Desktop/5.1.8/spring-tool.xsd"/>
+  <uri name="http://www.springframework.org/schema/tx" uri="file:///C:/Users/l/Desktop/5.1.8/spring-tx.xsd"/>
+  <uri name="http://www.springframework.org/schema/util" uri="file:///C:/Users/l/Desktop/5.1.8/spring-util.xsd"/>
+  <uri name="http://www.springframework.org/schema/websocket" uri="file:///C:/Users/l/Desktop/5.1.8/spring-websocket.xsd"/>
+</catalog>

@@ -1,0 +1,7 @@
+<classpath>
+  <container id="springmvc!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="G:/HandSpring/springmvc/WebContent/WEB-INF/lib/spring-context-5.1.8.RELEASE.jar">
+      <source-attachment-path>C:/Users/l/Desktop/spring-framework-5.1.8.RELEASE-dist/spring-framework-5.1.8.RELEASE/libs/spring-context-5.1.8.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

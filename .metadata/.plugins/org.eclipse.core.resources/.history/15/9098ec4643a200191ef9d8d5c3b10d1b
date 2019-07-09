@@ -1,0 +1,28 @@
+package Quartz.Quartz.Job;
+
+import org.quartz.CronScheduleBuilder;
+import org.quartz.CronTrigger;
+import org.quartz.JobBuilder;
+import org.quartz.JobDetail;
+import org.quartz.Scheduler;
+import org.quartz.SchedulerException;
+import org.quartz.TriggerBuilder;
+import org.quartz.impl.StdSchedulerFactory;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args ) throws SchedulerException
+    {
+    	JobDetail jobDetail =JobBuilder.newJob(HelloJob.class).withIdentity("conJob").build();
+    	CronTrigger cronTrigger=TriggerBuilder.newTrigger().withIdentity("cronTrigger").withSchedule(CronScheduleBuilder.cronSchedule("0 57 15 * * ? ")).build();
+    	StdSchedulerFactory stdSchedulerFactory = new StdSchedulerFactory();
+        Scheduler scheduler = stdSchedulerFactory.getScheduler();
+        scheduler.start();
+        scheduler.scheduleJob(jobDetail,cronTrigger);
+    	
+    }
+}

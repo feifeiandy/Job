@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: l
+Class-Path: lib/quartz-2.3.1.jar lib/c3p0-0.9.5.3.jar lib/mchange-comm
+ ons-java-0.2.15.jar lib/HikariCP-java7-2.4.13.jar lib/slf4j-api-1.7.7
+ .jar lib/quartz-all-1.6.3.jar lib/slf4j-jdk14-1.7.25.jar
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Main-Class: Quartz.Quartz.Job.App
+

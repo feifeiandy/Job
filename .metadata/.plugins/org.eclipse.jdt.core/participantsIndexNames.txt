@@ -1,0 +1,7 @@
+INDEX VERSION 1.130
+G:\HandSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2953099317.index
+\springmvc\src
+G:\HandSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2461134750.index
+\HelloMvc\src
+G:\HandSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1976053617.index
+\springmvc\src

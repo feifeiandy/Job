@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将资源“q/LIB”重命名为“lib”" description="重命名资源“LIB”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="LIB" name="lib" stamp="1562637768417" updateReferences="true"/>
+</session>
